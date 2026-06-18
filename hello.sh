@@ -6,3 +6,4 @@ hostname
 cal
 df -h
 free -m
+echo "Sudha"
