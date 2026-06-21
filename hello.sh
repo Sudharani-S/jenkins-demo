@@ -7,5 +7,4 @@ cal
 df -h
 free -m
 echo "Sudha"
-
 ls -la
